@@ -1,2 +1,2 @@
 # dudu-tools
-tools
+dudu-tools
